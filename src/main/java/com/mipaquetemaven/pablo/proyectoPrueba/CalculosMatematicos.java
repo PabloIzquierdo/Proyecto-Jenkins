@@ -54,12 +54,12 @@ public class CalculosMatematicos {
 		return listaDePrimos;
 		
 	}
-	/*public static boolean noEsPrimo(int num) {
+	public static boolean noEsPrimo(int num) {
 		boolean sw = false;
 		if(num % 2 != 0) {
 			sw = true;
 		}
 		return sw;
-	}*/
+	}
 
 }
